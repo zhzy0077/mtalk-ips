@@ -3,6 +3,9 @@ A list of IPs for mtalk.google.com(aka Google FCM service) that connectable from
 
 The second column is the milliseconds to establish a tcp connection to 5228 port of the IP.
 
+## Help wanted
+Really appriciate if you could do DNS lookup `mtalk.google.com` in your network and share it if you find a connectable IP.
+
 ### 2021-04-15
 ```
 142.250.111.188 - 309.018135071
