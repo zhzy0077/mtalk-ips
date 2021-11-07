@@ -37,3 +37,9 @@ Really appriciate if you could do DNS lookup `mtalk.google.com` in your network 
 108.177.125.188
 74.125.203.188
 ```
+
+### 2021-11-07
+
+```
+142.251.8.18
+```
