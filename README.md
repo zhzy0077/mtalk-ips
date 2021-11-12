@@ -35,5 +35,4 @@ Really appriciate if you could do DNS lookup `mtalk.google.com` in your network 
 64.233.188.188
 108.177.97.188
 108.177.125.188
-74.125.203.188
 ```
